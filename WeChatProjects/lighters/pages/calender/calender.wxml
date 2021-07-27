@@ -1,0 +1,7 @@
+<!--pages/calender/calender.wxml-->
+<text>pages/calender/calender.wxml</text>
+<view>
+  <h1>Calender</h1>
+  <h2>{{name}}</h2>
+  <h2>{{gender}}</h2>
+</view>

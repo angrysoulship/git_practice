@@ -1,0 +1,5 @@
+<!--index.wxml-->
+<view>
+  <h1>Hello Lighers</h1>
+  <button bindtap="buttonClicked">Press</button>
+</view>
